@@ -1,6 +1,6 @@
 # Homework-2-NLP-
 
-## Bigram Language Model (MLE)
+## Q6 Bigram Language Model (MLE)
 
 ### Description
 
