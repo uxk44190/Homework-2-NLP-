@@ -36,14 +36,6 @@ The probability of a sentence is the product of all its bigram probabilities.
 
 ---
 
-## How to Run
-1. Ensure Python 3 is installed
-2. Save the program as `bigram_model.py`
-3. Run the script using:
-   python bigram_model.py
-
----
-
 ## Output
 The program prints:
 - Unigram counts
